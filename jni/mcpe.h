@@ -39,7 +39,6 @@ public:
 	static Material ice;
 	static Material snow;
 	static Material clay;
-	static Material fire;
 	static Material sponge;
 	static Material explosive;
 	static Material coral;
